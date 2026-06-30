@@ -9,7 +9,7 @@ Angel Arnold - GitHub Editor
 
 Lauren Robbins - Github Organizer/ Manager
 
-Jeffrey McGurk - Driver of IDE/code changes
+Jeffrey McGurk - Driver of IDE/Code Changes
 
 Kennedy Hemphill - Coding Logic
 
