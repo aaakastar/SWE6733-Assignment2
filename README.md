@@ -37,8 +37,14 @@ The GitHub repository will be the group's project management and central data ke
 
 ## Code Coverage 
 (add image here) (VS Code via (code coverage tool))
+*Description
 
 ## Unit Test & Results 
 (add image here)
+*Description
+
+## Refactor Before/After
+(add images here (2-3)
+*Description
 
 ## Additional Notes & Comments
